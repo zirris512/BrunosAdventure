@@ -6,7 +6,7 @@ namespace RPG.Character
     {
         public void HandleMove()
         {
-            print("WASD Keys pressed!");
+            Debug.Log("WASD Keys pressed!");
         }
     }
 }
